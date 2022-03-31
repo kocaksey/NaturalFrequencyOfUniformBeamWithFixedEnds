@@ -81,7 +81,7 @@ namespace FixedBeamNaturalFrequencyCalculator
                 lbCenterLoad.Visible = true;
                 lbCenterLoad2.Visible = true;
 
-
+                //asd
             }
 
         
