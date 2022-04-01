@@ -480,7 +480,7 @@ namespace FixedBeamNaturalFrequencyCalculator
             this.tableLayoutPanel14.Controls.Add(this.label19, 0, 2);
             this.tableLayoutPanel14.Controls.Add(this.label23, 0, 3);
             this.tableLayoutPanel14.Controls.Add(this.label17, 0, 0);
-            this.tableLayoutPanel14.Location = new System.Drawing.Point(304, 341);
+            this.tableLayoutPanel14.Location = new System.Drawing.Point(304, 350);
             this.tableLayoutPanel14.Name = "tableLayoutPanel14";
             this.tableLayoutPanel14.RowCount = 6;
             this.tableLayoutPanel14.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
@@ -704,7 +704,7 @@ namespace FixedBeamNaturalFrequencyCalculator
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(304, 48);
+            this.pictureBox1.Location = new System.Drawing.Point(304, 40);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(266, 115);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -722,7 +722,7 @@ namespace FixedBeamNaturalFrequencyCalculator
             this.tableLayoutPanel8.Controls.Add(this.label18, 0, 1);
             this.tableLayoutPanel8.Controls.Add(this.label16, 1, 0);
             this.tableLayoutPanel8.Controls.Add(this.label14, 0, 0);
-            this.tableLayoutPanel8.Location = new System.Drawing.Point(304, 169);
+            this.tableLayoutPanel8.Location = new System.Drawing.Point(304, 161);
             this.tableLayoutPanel8.Name = "tableLayoutPanel8";
             this.tableLayoutPanel8.RowCount = 2;
             this.tableLayoutPanel8.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
@@ -792,7 +792,7 @@ namespace FixedBeamNaturalFrequencyCalculator
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(304, 220);
+            this.pictureBox2.Location = new System.Drawing.Point(304, 229);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(266, 115);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -802,7 +802,7 @@ namespace FixedBeamNaturalFrequencyCalculator
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(304, 486);
+            this.pictureBox3.Location = new System.Drawing.Point(304, 510);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(266, 115);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -820,7 +820,7 @@ namespace FixedBeamNaturalFrequencyCalculator
             this.tableLayoutPanel9.Controls.Add(this.label26, 0, 1);
             this.tableLayoutPanel9.Controls.Add(this.label29, 1, 0);
             this.tableLayoutPanel9.Controls.Add(this.label30, 0, 0);
-            this.tableLayoutPanel9.Location = new System.Drawing.Point(304, 607);
+            this.tableLayoutPanel9.Location = new System.Drawing.Point(304, 631);
             this.tableLayoutPanel9.Name = "tableLayoutPanel9";
             this.tableLayoutPanel9.RowCount = 2;
             this.tableLayoutPanel9.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
